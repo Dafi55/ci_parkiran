@@ -43,7 +43,7 @@
 
       <!-- Nav Item - Dashboard -->
       <li class="nav-item active">
-        <a class="nav-link" href="index.html">
+        <a class="nav-link" href="/dashboard">
           <i class="fas fa-fw fa-tachometer-alt"></i>
           <span>Dashboard</span></a>
       </li>
@@ -63,7 +63,7 @@
         <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Data :</h6>
-            <a class="collapse-item" href="register.html">Petugas</a>
+            <a class="collapse-item" href="/petugas">Petugas</a>
             <a class="collapse-item" href="/juruparkir">Juru Parkir</a>
 
           </div>
@@ -72,7 +72,7 @@
 
       <!-- Nav Item - Charts -->
       <li class="nav-item">
-        <a class="nav-link" href="charts.html">
+        <a class="nav-link" href="/setoran">
           <i class="fas fa-fw fa-chart-area"></i>
           <span>Setoran</span></a>
       </li>
